@@ -3,7 +3,7 @@ title: 비전공자를 위한 인공지능 입문과정 노트 Day 3
 date: 2021-05-03 13:57:00
 category: ai_school
 thumbnail: { thumbnailSrc }
-draft: true
+draft: false
 ---
 
 
